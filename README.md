@@ -1,7 +1,8 @@
-# django-smile
+# django-smile<br>
 Exemplo de um projeto simples com Django
-
+<br>
 ##Como rodar o projeto
+<br>
 *Clone esse repositorio
 *Crie um virtualenv com python3
 *Ative o virtualenv
