@@ -1,7 +1,7 @@
-#django-smile<br>
+## DJANGO-SMILE<br>
 Exemplo de um projeto simples com Django
 <br>
-#Como rodar o projeto
+# Como rodar o projeto
 <br>
 *Clone esse repositorio
 <br>
